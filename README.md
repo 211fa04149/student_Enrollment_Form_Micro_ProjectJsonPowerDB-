@@ -12,7 +12,23 @@ Additional you can have: JsonPowerDB is a Real-time, High Performance, Lightweig
 
 Table of contents: Roll-No Student Full Name Class Birth-Date Address Enrollment-Date SAVE - INSERT CHANGE - UPDATE DELETE RESET
 
+-----------------------------------------------------------------------------
 Document link : https://login2explore.com/jpdb/docs.html
+Scoures : https://login2explore.com/jpdb/docs.html
+-----------------------------------------------------------------------------
 
+Scope of functionalites:
+
+Examples of use: can be used different types of other platforms like 
+Registration Form, Application Form, Sign-Up Form, Profile Creation Form, User Information Form and many more other uses.
+
+Project Status : Done
+
+-----------------------------------------------------------------------------
+Tools > Token > connection token > generate token needed to communicate with data base 
+
+90932512|-31949274757731994|90949158
+
+Token used to execute the API
 
 
