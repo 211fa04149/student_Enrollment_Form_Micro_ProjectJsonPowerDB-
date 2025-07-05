@@ -31,4 +31,9 @@ Tools > Token > connection token > generate token needed to communicate with dat
 
 Token used to execute the API
 
+------------------------------------------------------------------------------------------------
+
+Illustrations
+
+![Screenshot 2025-07-05 132251](https://github.com/user-attachments/assets/f0fc9f53-e852-4700-bfa7-3522d45dae2f)
 
