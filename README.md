@@ -37,3 +37,9 @@ Illustrations
 
 ![Screenshot 2025-07-05 132251](https://github.com/user-attachments/assets/f0fc9f53-e852-4700-bfa7-3522d45dae2f)
 
+![Screenshot 2025-07-05 132116](https://github.com/user-attachments/assets/ca422bdf-a580-40e1-ad1f-d7e4de3cac7c)
+
+![Screenshot 2025-07-05 132122](https://github.com/user-attachments/assets/5bd2ebe9-8525-402d-a793-3adfc5b7a845)
+
+
+
